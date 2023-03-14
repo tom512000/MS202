@@ -10,7 +10,7 @@
 - Conseils et recommandations                               ✅
 ### 2 Modélisation d’un labyrinthe                          ✅
 ### 3 Implémentation                                        ✅
-### 4 Manipulation de labyrinthes                           ❌
+### 4 Manipulation de labyrinthes                           ✅
 ### 5 Génération                                            ❌
 - 5.1 Arbre binaire                                         ❌
 - 5.2 Sidewinder                                            ❌
