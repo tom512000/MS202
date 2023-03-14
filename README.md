@@ -4,12 +4,12 @@
 <br>
 
 ## Table des matières
-### 1 Préambule                                             ❌
-- 1.1 Dates importantes                                     ❌
-- Notes sur l’organisation et l’évaluation                  ❌
-- Conseils et recommandations                               ❌
-### 2 Modélisation d’un labyrinthe                          ❌
-### 3 Implémentation                                        ❌
+### 1 Préambule                                             ✅
+- 1.1 Dates importantes                                     ✅
+- Notes sur l’organisation et l’évaluation                  ✅
+- Conseils et recommandations                               ✅
+### 2 Modélisation d’un labyrinthe                          ✅
+### 3 Implémentation                                        ✅
 ### 4 Manipulation de labyrinthes                           ❌
 ### 5 Génération                                            ❌
 - 5.1 Arbre binaire                                         ❌
